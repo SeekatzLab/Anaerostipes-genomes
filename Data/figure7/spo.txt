@@ -1,0 +1,84 @@
+COG20_FUNCTION	n	cat
+"3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation (KapD)"	4	rem
+Alanine dehydrogenase (includes sporulation protein SpoVN) (Ald) (PDB:2EEZ)	8	spor
+Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module (AbrB) (PDB:2RO5)	126	spor
+"Cell fate regulator YaaT, PSP1 superfamily (controls sporulation, competence, biofilm development) (YaaT) (PUBMED:23490197)"	125	spor
+"Cell wall hydrolase CwlJ, involved in spore germination (CwlJ) (PDB:4F55)"	125	germ
+"CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)"	75	rem
+"CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain"	1	rem
+"DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (OmpR) (PDB:1XHF)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|K+-sensing histidine kinase KdpD (KdpD) (PDB:2KSF)"	17	rem
+"DNA-binding transcriptional regulator, XRE-family HTH domain (XRE) (PDB:1UTX)|Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module (AbrB) (PDB:2RO5)"	7	rem
+Dipicolinate synthase subunit A (sporulation protein SpoVFA) (DpaA) (PDB:2RIR) (PUBMED:8098035;8345520)	126	spor
+Dipicolinate synthase subunit B (sporulation protein SpoVFB) (DpaB) (PDB:3MCU) (PUBMED:8098035;8345520)	126	spor
+Ketopantoate reductase (PanE) (PDB:1BG6)|Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK (TesA) (PDB:1BWP)	2	rem
+Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK (TesA) (PDB:1BWP)	126	spor
+Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK (TesA) (PDB:1BWP)|Fibronectin type 3 domain (FN3)	5	rem
+Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK (TesA) (PDB:1BWP)|Polygalacturonase (Pgu1) (PDB:1BHE)	2	rem
+"Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family (Acm) (PDB:1H09)|Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family (SleL) (PDB:4S3J)"	28	germ
+Mn-containing catalase (includes spore coat protein CotJC) (CotJC) (PDB:1JKU) (PUBMED:20434458)	125	spor
+Multicopper oxidase with three cupredoxin domains (includes cell division protein FtsP and spore coat protein CotA) (SufI) (PDB:2YXV)	3	rem
+"Negative regulator MecA of genetic competence, sporulation and motility (MecA) (PDB:2MK6)"	126	rem
+"Putative cell wall-binding domain (amidase enhancer), LytB superfamily (LytB) (PDB:5J6Q)|Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK (TesA) (PDB:1BWP)"	1	rem
+"Rubrerythrin, includes spore coat protein YhjR (YhjR) (PDB:2E0Z)"	89	spor
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)"	121	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|ABC-type amino acid transport/signal transduction system, periplasmic component/domain (HisJ) (PDB:1GGG)"	27	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (CitB) (PDB:1A04)|HPt (histidine-containing phosphotransfer) domain (HPtr) (PDB:3IQT)|PAS domain (PAS) (PDB:2MWG)"	6	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (AtoC) (PDB:1ZY2)"	1	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants (GGDEF) (PDB:6D9M)"	80	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants (GGDEF) (PDB:6D9M)|PAS domain (PAS) (PDB:2MWG)"	6	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|HPt (histidine-containing phosphotransfer) domain (HPtr) (PDB:3IQT)"	101	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|HPt (histidine-containing phosphotransfer) domain (HPtr) (PDB:3IQT)|PAS domain (PAS) (PDB:2MWG)"	7	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|HPt (histidine-containing phosphotransfer) domain (HPtr) (PDB:3IQT)|Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains (RpfG)"	5	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|PAS domain (PAS) (PDB:2MWG)"	27	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (OmpR) (PDB:1XHF)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)"	9	rem
+"Signal transduction histidine kinase (BaeS) (PDB:1JOY)|DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (OmpR) (PDB:1XHF)|CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F (CheY) (PDB:6QRJ)|PAS domain (PAS) (PDB:2MWG)"	81	rem
+"Small acid-soluble spore protein SAS2, clostridial type (SASP) (PUBMED:16804543)"	126	spor
+Small acid-soluble spore protein SspA/SspB/SspC/SspD (alpha/beta-type) (SspA/SspB/SspC/SspD) (PUBMED:3009398;9387221)	126	spor
+Spore coat protein CotF (CotF)	27	spor
+Spore coat protein CotH (CotH) (PDB:5JD9)	5	spor
+"Spore coat protein CotI/CotS, protein kinase superfamily (CotI) (PDB:2Q83) (PUBMED:7545510;9387221;12562816)"	126	spor
+Spore coat protein CotJB (CotJB) (PUBMED:7768848)	123	spor
+Spore cortex formation membrane protein YabQ (YabQ) (PUBMED:11283287;15231775)	125	spor
+"Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family (SleL) (PDB:4S3J)"	32	germ
+"Spore dipicolinate transporter SpoVV/YjiH/YlbJ, contains nucleoside recognition GATE domain (SpoVV) (PUBMED:28945739)"	61	spor
+Spore germination protease Gpr (Gpr) (PUBMED:1840582;8478323)	126	germ
+Spore germination protein GerM (GerM) (PDB:6GZB)	35	germ
+Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain (YkwD) (PDB:1CFE) (PUBMED:31199835)	98	germ
+Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain (YkwD) (PDB:1CFE) (PUBMED:31199835)|Glucan-binding domain (YG repeat) (PDB:1H09)	24	rem
+"Spore germination receptor GerABC, GerA subunit (L-alanine receptor) (GerAA)"	126	germ
+"Spore germination receptor GerABC, GerB subunit (amino acid transporter) (GerAB)"	5	germ
+Spore maturation protein SpmA (function unknown) (SpmA)	125	rem
+Spore maturation protein SpmB (function unknown) (SpmB)	125	rem
+Sporulation protein YabP (YabP) (PUBMED:11283287;15231775)	126	spor
+"Sporulation protein YlmC, YlmC/YmxH family, contains PRC-barrel domain (YlmC) (PDB:1PM3)"	48	rem
+"Sporulation sigma factor SigE (mother cell-specific, SpoIIGB) (SigE) (PUBMED:3104904;2106671)"	125	spor
+"Sporulation sigma factor SigG (forespore-specific, SpoIIIG) (SigG) (PUBMED:25092033)"	126	spor
+"Sporulation sigma factor SigK (mother cell-specific, SpoIIIC/SpoIVCB) (SigK) (PUBMED:3125151;2492118)"	1	spor
+"Stage 0 sporulation initiation regulator Spo0A (response regulator, REC-HTH domains) (Spo0A) (PDB:1LQ1) (PUBMED:3921963;3018427;3157992;9044256;3151993;2121995;12176382)"	125	spor
+Stage II sporulation protein SpoIIAA (antagonist of anti-sigma F factor) (SpoIIAA) (PDB:1BUZ) (PUBMED:6088674;1629150;8358793;7751305;9560229)	126	spor
+Stage II sporulation protein SpoIIE/SpoIIH (serine phosphatase - sigma-F activation) (SpoIIE) (PDB:3T91) (PUBMED:7584024;8830262;2832371;8113187;7570023)	125	spor
+"Stage II sporulation protein SpoIIGA (protease, processing of pro-sigma-E to active sigma-E) (SpoIIGA) (PUBMED:18378688;21362630)"	126	spor
+"Stage II sporulation protein SpoIIP, required for dissolution of the septal cell wall (SpoIIP)"	126	spor
+"Stage II sporulation protein SpoIIR, required for processing of pro-sigma-E (SpoIIR) (PUBMED:7892217;24098137)"	126	spor
+Stage III sporulation protein SpoIIIAA (SpoIIIAA)	125	rem
+"Stage III sporulation protein SpoIIIAB, component of the engulfment complex (SpoIIIAB) (PDB:6BS9) (PUBMED:1766372)"	124	spor
+"Stage III sporulation protein SpoIIIAC, component of the engulfment complex (SpoIIIAC)"	109	spor
+"Stage III sporulation protein SpoIIIAD, component of the engulfment complex (SpoIIIAD)"	111	spor
+"Stage III sporulation protein SpoIIIAE, component of the engulfment complex (SpoIIIAE) (PUBMED:18820020)"	124	spor
+"Stage III sporulation protein SpoIIIAG, component of the engulfment complex (SpoIIIAG)"	124	spor
+"Stage III sporulation protein SpoIIIAH, component of the engulfment complex (SpoIIIAH) (PDB:3TUF) (PUBMED:18485064;18812514)"	123	spor
+"Stage III sporulation protein SpoIIID, transcriptional regulator of sigma-E- and sigma-K-dependent genes (SpoIIID) (PDB:2L0K) (PUBMED:16707683)"	122	spor
+"Stage IV sporulation protein SpoIVA, required for spore cortex formation and coat assembly (SpoIVA) (PUBMED:19775244;23267091)"	125	spor
+"Stage IV sporulation protein SpoIVB, serine protease, degrades SpoIIQ, SpoIVFA (SpoIVB) (PUBMED:12940997;15292188)"	125	spor
+Stage IV sporulation protein YqfD (YqfD)	126	rem
+"Stage V sporulation protein SpoVAA, subunit of dipicolinate uptake complex (SpoVAA)"	125	spor
+"Stage V sporulation protein SpoVAB, subunit of dipicolinate uptake complex (SpoVAB)"	125	spor
+"Stage V sporulation protein SpoVAC, subunit of dipicolinate uptake complex (SpoVAC)"	125	spor
+"Stage V sporulation protein SpoVAD, subunit of dipicolinate uptake complex (SpoVAD) (PDB:3LM6)"	125	spor
+"Stage V sporulation protein SpoVAEB, subunit of dipicolinate uptake complex (SpoVAEB)"	125	rem
+"Stage V sporulation protein SpoVB/SpoIIIF, required for spore cortex synthesis (SpoVB) (PUBMED:1744050)"	126	rem
+"Stage V sporulation protein SpoVT, regulator of stationary/sporulation gene expression (SpoVT) (PDB:2RO5) (PUBMED:19000822;18996130)"	126	rem
+Uncharacterized spore protein YtfJ (YtfJ)	124	rem
+"Uncharacterized sporulation membrane protein YrzE, contains DUF3792 domain (YrzE)"	124	rem
+"Uncharacterized sporulation protein YyaC,contains DUF1256 domain (YyaC) (PUBMED:1552862;7584024)"	124	rem
+"Uncharacterized sporulation proteins YjcM and YhbB, contain C-terminal amidase domain (YhbB)"	23	rem

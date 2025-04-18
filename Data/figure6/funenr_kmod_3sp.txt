@@ -1,0 +1,46 @@
+key	enrichment_score	unadjusted_p_value	adjusted_q_value	associated_groups	accession	function	p_caccae	N_caccae	p_hadrus	N_hadrus	p_hominis	N_hominis
+func_57e69c5e17a1	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	caccae,hominis	M00144	NADH:quinone oxidoreductase, prokaryotes	1	15	0	84	1	11
+func_592623e0b5e9	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	hadrus	M00616	Sulfate-sulfur assimilation	0	15	1	84	0	11
+func_a670257d9147	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	hadrus	M00525	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	0	15	1	84	0	11
+func_af619244273a	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	caccae,hominis	M00053	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	1	15	0	84	1	11
+func_b059b7f6dbe0	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	caccae,hominis	M00112	Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol	1	15	0	84	1	11
+func_c15e4ce13145	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	hadrus	M00596	Dissimilatory sulfate reduction, sulfate => H2S	0	15	1	84	0	11
+func_df8208592a7f	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	caccae,hominis	M00375	Hydroxypropionate-hydroxybutylate cycle	1	15	0	84	1	11
+func_ef0a99997d12	110.0085921746576	1.2940102853346468e-24	6.477869366867844e-24	caccae,hominis	M00129	Ascorbate biosynthesis, animals, glucose-1P => ascorbate	1	15	0	84	1	11
+func_a74d65e93f74	110.00617697880666	1.2955738733735687e-24	6.477869366867844e-24	caccae	M00098	Acylglycerol degradation	1	15	0	84	0	11
+func_cb5df754d2f8	104.8241151731443	1.7287516393641445e-23	7.779382377138651e-23	caccae,hominis	M00038	Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate	1	15	0	84	0.9090909090909092	11
+func_12f8efb7aeaa	101.59722513640087	8.678464140371656e-23	3.5502807846974957e-22	caccae	M00845	Arginine biosynthesis, glutamate => acetylcitrulline => arginine	0.9333333333333332	15	0	84	0	11
+func_da95113ede1c	99.00002453677557	3.1799318873209147e-22	1.192474457745343e-21	hominis	M00131	Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol	0	15	0	84	0.9090909090909092	11
+func_f32ddabff814	91.66679376256616	1.2439663928993357e-20	4.306037513882316e-20	caccae,hadrus	M00176	Assimilatory sulfate reduction, sulfate => H2S	0.26666666666666666	15	1	84	0	11
+func_968bbd8c788a	67.36033697271314	2.359873246663187e-15	7.58530686427453e-15	hadrus,hominis	M00135	GABA biosynthesis, eukaryotes, putrescine => GABA	0	15	0.07142857142857142	84	1	11
+func_24f14ac13d64	62.89174356619816	2.2041005653635277e-14	6.612301696090584e-14	caccae,hadrus	M00959	Guanine ribonucleotide degradation, GMP => Urate	1	15	0.10714285714285714	84	0	11
+func_05ae66bb7285	54.46359589305484	1.4906662525840329e-12	4.1924988353925925e-12	caccae,hadrus	M00936	Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin	1	15	0.14285714285714285	84	0	11
+func_30b7cec0a65a	40.19276791316432	1.8717650830632463e-9	4.954672278696829e-9	caccae	M00059	Glycosaminoglycan biosynthesis, heparan sulfate backbone	0.4	15	0	84	0	11
+func_ed9714ae2108	33.17492214283551	6.253990078030364e-8	1.5634975195075908e-7	caccae	M00850	Vibrio cholerae pathogenicity signature, cholera toxins	0.3333333333333333	15	0	84	0	11
+func_0fa07df1bf64	33.03634692210193	6.702678903999e-8	1.587476582526079e-7	caccae,hominis	M00060	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type	0.4	15	0	84	0.2727272727272727	11
+func_3cba28592e1b	22.032210401984067	1.6434870983390715e-5	3.6978459712629106e-5	caccae,hadrus	M00055	N-glycan precursor biosynthesis	0.06666666666666667	15	0.5595238095238095	84	0	11
+func_663ed8992a3e	19.62281107044608	5.4822737333266225e-5	1.1747729428557048e-4	caccae,hadrus	M00956	Lysine degradation, bacteria, L-lysine => succinate	0.26666666666666666	15	0.0119047619047619	84	0	11
+func_4e1841adda5b	18.33343807018946	1.0445867335194534e-4	2.1366546821988822e-4	hominis	M00118	Glutathione biosynthesis, glutamate => glutathione	0	15	0	84	0.18181818181818185	11
+func_242b2b6ca67f	7.213931871698936	0.027134048544656657	0.053088355848241287	hadrus,hominis	M00552	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	0	15	0.13095238095238096	84	0.3636363636363637	11
+func_fc537615ad5e	6.391443963643234	0.04093695896395694	0.07675679805741926	caccae	M00827	C-1027 beta-amino acid moiety biosynthesis, tyrosine => 3-chloro-4,5-dihydroxy-beta-phenylalanyl-PCP	0.06666666666666667	15	0	84	0	11
+func_7b76ae6f5af9	1.9642875421315906	0.37450737957987773	0.67411328324378	hadrus	M00064	ADP-L-glycero-D-manno-heptose biosynthesis	0	15	0.07142857142857142	84	0	11
+func_a2149dbbff1c	0.9546080370429778	0.6204538711485466	1	hadrus	M00569	Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA	0	15	0.03571428571428571	84	0	11
+func_af511601bdbe	0.8091914817713446	0.6672464968211406	1	caccae,hadrus	M00725	Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon	0.06666666666666667	15	0.03571428571428571	84	0	11
+func_a1dc8cd2ef61	0.6305264744951907	0.7295967919371898	1	hadrus	M00631	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	0	15	0.0238095238095238	84	0	11
+func_df870695c3af	0.6305264744951907	0.7295967919371898	1	hadrus	M00923	UDP-L-FucNAm biosynthesis	0	15	0.0238095238095238	84	0	11
+func_3baa3d401c0c	0.3123637682725055	0.8554035918775424	1	hadrus	M00577	Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	0	15	0.0119047619047619	84	0	11
+func_db523f187c8a	0.3123637682725055	0.8554035918775424	1	hadrus	M00045	Histidine degradation, histidine => N-formiminoglutamate => glutamate	0	15	0.0119047619047619	84	0	11
+func_f61f0685055f	0.3123637682725055	0.8554035918775424	1	hadrus	M00088	Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	0	15	0.0119047619047619	84	0	11
+func_3432b7606ebc	0	1	1	NA	M00939	Pyrimidine degradation, uracil => 3-hydroxypropanoate	0	15	0	84	0	11
+func_4116ea4fcaf6	0	1	1	NA	M00568	Catechol ortho-cleavage, catechol => 3-oxoadipate	0	15	0	84	0	11
+func_4c11eb00306b	0	1	1	NA	M00346	Formaldehyde assimilation, serine pathway	0	15	0	84	0	11
+func_4edc228d36b8	0	1	1	NA	M00835	Pyocyanine biosynthesis, chorismate => pyocyanine	0	15	0	84	0	11
+func_6a7d60179360	0	1	1	NA	M00814	Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose	0	15	0	84	0	11
+func_855985dab41b	0	1	1	NA	M00968	Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate	0	15	0	84	0	11
+func_9218f9af5c5b	0	1	1	NA	M00031	Lysine biosynthesis, mediated by LysW, 2-aminoadipate => lysine	0	15	0	84	0	11
+func_94df585aec78	0	1	1	NA	M00726	Cationic antimicrobial peptide (CAMP) resistance, lysyl-phosphatidylglycerol (L-PG) synthase MprF	0	15	0	84	0	11
+func_9658fc48f901	0	1	1	NA	M00027	GABA (gamma-Aminobutyrate) shunt	0	15	0	84	0	11
+func_b0bb74df0de3	0	1	1	NA	M00175	Nitrogen fixation, nitrogen => ammonia	0	15	0	84	0	11
+func_b80d24c56144	0	1	1	NA	M00156	Cytochrome c oxidase, cbb3-type	0	15	0	84	0	11
+func_e42ea02a2afd	0	1	1	NA	M00546	Purine degradation, xanthine => urea	0	15	0	84	0	11
+func_e56d64955105	0	1	1	NA	M00358	Coenzyme M biosynthesis	0	15	0	84	0	11
