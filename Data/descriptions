@@ -1,4 +1,10 @@
-# following files too large to be uploaded; email for access
+# following files too large to be uploaded; email aseekat@clemson.edu for access
 AN8ANPAN_gene_clusters_summary.txt
 AN8HADPAN_gene_clusters_summary.txt
 ANPAN_gene_clusters_summary.txt
+AN8CACPAN_gene_clusters_summary.txt
+AN8HOMPAN_gene_clusters_summary.txt
+
+pcoa_anaero126.tsv
+tox_anaero126.tsv
+amr_anaero126.tsv
